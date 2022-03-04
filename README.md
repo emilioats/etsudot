@@ -9,6 +9,7 @@
 </div>
 <h1 align="center">Olá, me chamo Álex Fernando! </h1>
 <!-- <img src="./.github/Hi.gif" width="25"> -->
+😀 15 anos, cursando o 2º ano do Ensino Médio<br>
 :man_student: Estudante de Python<br/>
 :white_heart: Apaixonado por tecnologia e programação <br/>
 :seedling: Pretendo estudar: React/Django<br/>
