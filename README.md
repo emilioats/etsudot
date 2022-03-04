@@ -15,9 +15,6 @@
 :smile: Meus pronomes: ele/dele <br/>
 :house_with_garden: Atualmente morando em Salvador/BA<br/>
 &#xa0;
-<br>
-<br>
-<br>
 <h2 align="center"> Tecnologias </h1>
 <p align="center">
  <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" title="Python">
